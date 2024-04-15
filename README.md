@@ -40,7 +40,7 @@ I have also created a presentation on the project that would be easily understoo
 
 ## Featured Notebooks/Analysis/Deliverables
 * Notebook [Link](https://help.github.com/articles/cloning-a-repository/](https://github.com/swadajkar/LoanStatusProject/blob/main/Loan%20Status%20Prediction%20-%20ML.ipynb))
-* Slide Deck [Link](https://help.github.com/articles/cloning-a-repository/](https://github.com/swadajkar/LoanStatusProject/blob/main/Loan%20Status%20Prediction%20-%20Sudarshan.pptx))
+* Slide Deck [Link]([https://help.github.com/articles/cloning-a-repository/](https://github.com/swadajkar/LoanStatusProject/blob/main/Loan%20Status%20Prediction%20-%20Sudarshan.pptx)](https://github.com/swadajkar/LoanStatusProject/blob/main/Loan%20Status%20Prediction%20-%20Sudarshan.pptx))
 
 
 ## Contributed by
